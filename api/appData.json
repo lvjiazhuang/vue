@@ -1,0 +1,24 @@
+{
+	"getNewsList": [
+		{
+			"title" : "新闻条目1",
+			"url" : "http://www.baidu.com"
+		},
+		{
+			"title" : "新闻条目2",
+			"url" : "http://www.baidu.com"
+		},
+		{
+			"title" : "新闻条目3",
+			"url" : "http://www.baidu.com"
+		},
+		{
+			"title" : "新闻条目4",
+			"url" : "http://www.baidu.com"
+		}
+	],
+	"login": {
+		"username": "strong",
+		"userId": "130425"
+	}
+}
